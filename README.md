@@ -18,9 +18,7 @@ orderd list
 
 1.bhargav
 
-2.kamaraju
-
-3.thirumala
+2.hacker
 
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 
